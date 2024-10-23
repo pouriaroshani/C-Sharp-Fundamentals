@@ -9,7 +9,7 @@ I started doing some courses in C# from scratch and thought about recording the 
 
 Here is the history of what I've learned:
 
-*	[x] Course Overview
+*	### [x] Course Overview
  
 *	### Fundamentals
     - [x] Identifiers 

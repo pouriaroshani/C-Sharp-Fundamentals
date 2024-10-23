@@ -4,19 +4,18 @@
 # Learning new programming language
 I started doing some courses in C# from scratch and thought about recording the progress here :)
 
-My favorite search engine is [C-Sharp-Fundamentals]([https://duckduckgo.com](https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)).
-<a href="(https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)"></a> 
+Link to the course [C-Sharp-Fundamentals](https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents).
 
 
 *	### Table of contents I went through in this course
 
     - [x] Course Overview
-    - [x] Getting Started with C# and .NET
-    - [x] Learning the C# Syntax
-    - [x] Adding Decision and Iteration Statements in C#
-    - [x] Using Methods in C#
-    - [x] Working with Strings
-    - [x] Creating Classes and Objects
+    - [ ] Getting Started with C# and .NET
+    - [ ] Learning the C# Syntax
+    - [ ] Adding Decision and Iteration Statements in C#
+    - [ ] Using Methods in C#
+    - [ ] Working with Strings
+    - [ ] Creating Classes and Objects
     - [ ] Understanding Value Types and Reference Types
     - [ ] Doing More with Classes and Custom Types
     - [ ] Using Arrays and Lists

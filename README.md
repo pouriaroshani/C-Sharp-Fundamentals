@@ -4,8 +4,8 @@
 # Learning new programming language
 I started doing some courses in C# from scratch and thought about recording the progress here :)
 
-<a href="https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents</a> 
-<a href="(https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)">geeksforgeeks.org/golang</a> 
+My favorite search engine is [C-Sharp-Fundamentals]([https://duckduckgo.com](https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)).
+<a href="(https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)"></a> 
 
 
 *	### Table of contents I went through in this course

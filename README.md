@@ -4,19 +4,12 @@
 # Learning new programming language
 I started doing some courses in C# from scratch and thought about recording the progress here :)
 
-<a href="https://www.geeksforgeeks.org/golang/">geeksforgeeks.org/golang</a> 
+<a href="https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents</a> 
 
 
 Here is the history of what I've learned:
 
-*	### OverView
-    - [x] Introduction
-    - [x] Install Go on Windows
-    - [x] Hello World
-    - [x] Knowing packages
-    - [x] API
-    - [x] Routing
-    - [x] Unit Test
+*	[x] Course Overview
  
 *	### Fundamentals
     - [x] Identifiers 

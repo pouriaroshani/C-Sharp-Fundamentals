@@ -7,18 +7,24 @@ I started doing some courses in C# from scratch and thought about recording the 
 <a href="https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents</a> 
 
 
-Here is the history of what I've learned:
 
-* [x]	### Course Overview
- 
-*	### Fundamentals
-    - [x] Identifiers 
-    - [x] Keywords
-    - [x] Data Types
-    - [x] Variables
-    - [x] Constants
-    - [x] Operators
+*	### Table of contents I went through in this course
 
+    - [x] Course Overview
+    - [x] Getting Started with C# and .NET
+    - [x] Learning the C# Syntax
+    - [x] Adding Decision and Iteration Statements in C#
+    - [x] Using Methods in C#
+    - [x] Working with Strings
+    - [x] Creating Classes and Objects
+    - [ ] Understanding Value Types and Reference Types
+    - [ ] Doing More with Classes and Custom Types
+    - [ ] Using Arrays and Lists
+    - [ ] Understanding the Fundamentals of Object-orientation
+    - [ ] Testing C# Code
+    - [ ] Reading from and Writing to Files
+    - [ ] Handling Exceptions
+    - [ ] Next Steps in C#
 <!-- 
 # Why GoLang?
 At the first I started with python. I did some little stuff with it but to be honest I didn't like it to continue, perhaps for the differences between Python and C# that made it hard to me to migrate. Python was a good language but I was adictted to C# :)

@@ -1,8 +1,8 @@
 # C-Sharp-Fundamentals
 
 
-# Learning new programming language
-I started doing some courses in C# from scratch and thought about recording the progress here :)
+## Learning new programming language
+I started doing this course in C# from scratch and thought about recording the progress here :)
 
 Link to the course [C-Sharp-Fundamentals](https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents).
 
